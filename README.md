@@ -1,1 +1,2 @@
-Modif faite par mon collègue sur GitHub.
+Modif faite par mon collègue sur GitHub
+
